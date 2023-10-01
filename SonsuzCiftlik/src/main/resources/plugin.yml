@@ -1,0 +1,4 @@
+name: SonsuzCiftlik
+version: '${version}'
+main: com.bnjrKemal.SonsuzCiftlik
+api-version: '1.20'

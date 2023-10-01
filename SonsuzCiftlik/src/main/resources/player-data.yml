@@ -1,0 +1,4 @@
+island-uuid:
+  button:
+    GrowListener: false
+    KillMobListener: false
